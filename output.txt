@@ -1,0 +1,247 @@
+Welcome to the VS Dice Game!
+View Rules? (Y/N): 
+n
+Are there going to be 1 or 2 players?
+1
+Please enter Player 1's name:
+Brian
+Enter Brian's health:
+50
+Enter the computer's health:
+50
+Brian, enter your die assignment:
+The die amounts should add up to 7.
+Strength: 
+0
+Dexterity: 
+0
+Intelligence: 
+0
+Luck: 
+7
+The computer will now assign their die.
+With a value of 1, the computer goes first 
+and Brian will go second with a value of 0.
+
+The computer had a greater attack value of 11 and got 1 multiplier(s).(+3 Attack)
+Brian had a lesser attack value of 0 and got 0 multiplier(s).(+3 Attack)
+
+Brian got 0 life bonus(es) and the computer got 1 life bonus(es). (+3 Life)
+
+Brian had a greater Chance value of 28 and got 3 multiplier(s).(+5 Attack/Take 2X Damage)
+The computer had a lesser Chance value of 0 and got 0 multiplier(s).(+5 Attack/Take 2X Damage)
+
+Brian's HP: 44
+The computer's HP: 38
+
+Brian, enter your die assignment:
+The die amounts should add up to 7.
+Strength: 
+0
+Dexterity: 
+0
+Intelligence: 
+0
+Luck: 
+7
+The computer will now assign their die.
+With a value of 6, the computer goes first 
+and Brian will go second with a value of 0.
+
+The computer had a greater attack value of 3 and got 1 multiplier(s).(+3 Attack)
+Brian had a lesser attack value of 0 and got 0 multiplier(s).(+3 Attack)
+
+Brian got 0 life bonus(es) and the computer got 0 life bonus(es). (+3 Life)
+
+Brian had a greater Chance value of 23 and got 2 multiplier(s).(+5 Attack/Take 2X Damage)
+The computer had a lesser Chance value of 3 and got 1 multiplier(s).(+5 Attack/Take 2X Damage)
+
+Brian's HP: 28
+The computer's HP: 18
+
+Brian, enter your die assignment:
+The die amounts should add up to 7.
+Strength: 
+0
+Dexterity: 
+0
+Intelligence: 
+0
+Luck: 
+7
+The computer will now assign their die.
+With a value of 5, the computer goes first 
+and Brian will go second with a value of 0.
+
+The computer had a greater attack value of 7 and got 1 multiplier(s).(+3 Attack)
+Brian had a lesser attack value of 0 and got 0 multiplier(s).(+3 Attack)
+
+Brian got 0 life bonus(es) and the computer got 2 life bonus(es). (+3 Life)
+
+Brian had a greater Chance value of 22 and got 3 multiplier(s).(+5 Attack/Take 2X Damage)
+The computer had a lesser Chance value of 1 and got 1 multiplier(s).(+5 Attack/Take 2X Damage)
+
+Brian's HP: 12
+The computer's HP: -6
+Brian has bested the computer and gets +1 point.
+Enter Brian's health:
+50
+Enter the computer's health:
+50
+Brian, enter your die assignment:
+The die amounts should add up to 7.
+Strength: 
+0
+Dexterity: 
+0
+Intelligence: 
+0
+Luck: 
+7
+The computer will now assign their die.
+With a value of 13, the computer goes first 
+and Brian will go second with a value of 0.
+
+The computer had a greater attack value of 6 and got 1 multiplier(s).(+3 Attack)
+Brian had a lesser attack value of 0 and got 0 multiplier(s).(+3 Attack)
+
+Brian got 0 life bonus(es) and the computer got 0 life bonus(es). (+3 Life)
+
+Brian had a greater Chance value of 17 and got 2 multiplier(s).(+5 Attack/Take 2X Damage)
+The computer had a lesser Chance value of 1 and got 0 multiplier(s).(+5 Attack/Take 2X Damage)
+
+Brian's HP: 44
+The computer's HP: 40
+
+Brian, enter your die assignment:
+The die amounts should add up to 7.
+Strength: 
+0
+Dexterity: 
+0
+Intelligence: 
+0
+Luck: 
+7
+The computer will now assign their die.
+With a value of 1, the computer goes first 
+and Brian will go second with a value of 0.
+
+The computer had a greater attack value of 8 and got 1 multiplier(s).(+3 Attack)
+Brian had a lesser attack value of 0 and got 0 multiplier(s).(+3 Attack)
+
+Brian got 0 life bonus(es) and the computer got 4 life bonus(es). (+3 Life)
+
+Brian had a greater Chance value of 20 and got 2 multiplier(s).(+5 Attack/Take 2X Damage)
+The computer had a lesser Chance value of 0 and got 0 multiplier(s).(+5 Attack/Take 2X Damage)
+
+Brian's HP: 38
+The computer's HP: 42
+
+Brian, enter your die assignment:
+The die amounts should add up to 7.
+Strength: 
+0
+Dexterity: 
+0
+Intelligence: 
+0
+Luck: 
+7
+The computer will now assign their die.
+Brian and the computer tied with a speed value of 0. A tie breaker will now occur
+
+With a value of 6, Brian goes first 
+and the computer will go second with a value of 4.
+
+The computer had a greater attack value of 9 and got 2 multiplier(s).(+3 Attack)
+Brian had a lesser attack value of 0 and got 0 multiplier(s).(+3 Attack)
+
+Brian got 0 life bonus(es) and the computer got 2 life bonus(es). (+3 Life)
+
+Brian had a greater Chance value of 14 and got 4 multiplier(s).(+5 Attack/Take 2X Damage)
+The computer had a lesser Chance value of 0 and got 0 multiplier(s).(+5 Attack/Take 2X Damage)
+
+Brian's HP: 26
+The computer's HP: 28
+
+Brian, enter your die assignment:
+The die amounts should add up to 7.
+Strength: 
+0
+Dexterity: 
+0
+Intelligence: 
+0
+Luck: 
+7
+The computer will now assign their die.
+With a value of 3, the computer goes first 
+and Brian will go second with a value of 0.
+
+The computer had a greater attack value of 6 and got 1 multiplier(s).(+3 Attack)
+Brian had a lesser attack value of 0 and got 0 multiplier(s).(+3 Attack)
+
+Brian got 0 life bonus(es) and the computer got 1 life bonus(es). (+3 Life)
+
+Brian had a greater Chance value of 22 and got 1 multiplier(s).(+5 Attack/Take 2X Damage)
+The computer had a lesser Chance value of 3 and got 0 multiplier(s).(+5 Attack/Take 2X Damage)
+
+Brian's HP: 20
+The computer's HP: 26
+
+Brian, enter your die assignment:
+The die amounts should add up to 7.
+Strength: 
+0
+Dexterity: 
+0
+Intelligence: 
+0
+Luck: 
+7
+The computer will now assign their die.
+With a value of 1, the computer goes first 
+and Brian will go second with a value of 0.
+
+The computer had a greater attack value of 5 and got 0 multiplier(s).(+3 Attack)
+Brian had a lesser attack value of 0 and got 0 multiplier(s).(+3 Attack)
+
+Brian got 0 life bonus(es) and the computer got 0 life bonus(es). (+3 Life)
+
+Brian had a greater Chance value of 19 and got 3 multiplier(s).(+5 Attack/Take 2X Damage)
+The computer had a lesser Chance value of 0 and got 0 multiplier(s).(+5 Attack/Take 2X Damage)
+
+Brian's HP: 20
+The computer's HP: 11
+
+Brian, enter your die assignment:
+The die amounts should add up to 7.
+Strength: 
+0
+Dexterity: 
+0
+Intelligence: 
+0
+Luck: 
+7
+The computer will now assign their die.
+With a value of 11, the computer goes first 
+and Brian will go second with a value of 0.
+
+The computer had a greater attack value of 3 and got 0 multiplier(s).(+3 Attack)
+Brian had a lesser attack value of 0 and got 0 multiplier(s).(+3 Attack)
+
+Brian got 0 life bonus(es) and the computer got 0 life bonus(es). (+3 Life)
+
+Brian had a greater Chance value of 24 and got 4 multiplier(s).(+5 Attack/Take 2X Damage)
+The computer had a lesser Chance value of 4 and got 0 multiplier(s).(+5 Attack/Take 2X Damage)
+
+Brian's HP: 20
+The computer's HP: -9
+Brian has bested the computer and gets +1 point.
+Thank you for playing!
+Like the 1 in your player count, you are the best Brian
+Lines: 244
+Words: 1119
+Numbers: 154

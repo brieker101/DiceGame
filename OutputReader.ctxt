@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OutputReader()
+comment1.params=
+comment1.target=java.lang.String\ counter()
+comment1.text=\r\n\ This\ class\ only\ exists\ for\ this\ method\r\n\ I\ had\ three\ seperate\ methods\ for\ the\ counters\ but\ realized\ this\ was\ better\r\n
+numComments=2
